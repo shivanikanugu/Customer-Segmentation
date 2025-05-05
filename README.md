@@ -21,7 +21,7 @@ Data Preprocessing
 ![newplot](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot.png)
 ![newplot (1)](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot%20(1).png)
 ![newplot (2)](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot%20(2).png)
-![newplot (3)](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/a201b6dc-54f2-4dee-a410-88b017294e95)
+![newplot (3)](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot%20(3).png)
 
 
 Algorithms Analysis
