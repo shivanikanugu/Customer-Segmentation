@@ -20,7 +20,7 @@ Data Preprocessing
 ![newplot (4)](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot%20(4).png)
 ![newplot](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot.png)
 ![newplot (1)](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot%20(1).png)
-![newplot (2)](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/4ed2687c-ecab-49c7-9802-2bfa17b028ac)
+![newplot (2)](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/newplot%20(2).png)
 ![newplot (3)](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/a201b6dc-54f2-4dee-a410-88b017294e95)
 
 
