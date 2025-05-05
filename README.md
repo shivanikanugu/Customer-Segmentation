@@ -56,7 +56,7 @@ Getting Started
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/shubham5027/customer-segmentation.git
+git clone https://github.com/shivanikanugu/Customer-Segmentation.git
 ```
 
 2. Navigate to the project directory:
