@@ -27,7 +27,7 @@ Data Preprocessing
 Algorithms Analysis
 -----------------
 
-![algorithm](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/61310abc-7a51-4041-ada2-f52e63d50c3b)
+![algorithm](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/assets/295300023-61310abc-7a51-4041-ada2-f52e63d50c3b.png)
 
 
 
