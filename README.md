@@ -4,7 +4,7 @@
 
 Run This App
 ------------
-https://customer-segmentation-machine-learning-webapp-vjvaefg8lhaf7zn2.streamlit.app/
+https://customer-segmentation-2zm698xavu8twwpj332pig.streamlit.app/
 
 This repository contains the code and resources for a customer segmentation project using KMeans clustering algorithms. The project includes:
 
