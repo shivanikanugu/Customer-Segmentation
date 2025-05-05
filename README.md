@@ -37,7 +37,7 @@ Deployment on Web
 ![assets/Screenshot (171).png](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/assets/Screenshot%20(171).png)
 ![assets/Screenshot(172).png ](https://github.com/shivanikanugu/Customer-Segmentation/blob/main/assets/Screenshot%20(172).png)
 ![assets/Screenshot(173).png ](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/643ed342-516f-40f8-906d-88ff32a66bae)
-![Screenshot 2024-01-09 232002](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/69b7046e-a1fe-4937-8459-8530cda3430a)
+![assets/Screenshot(174).png ](https://github.com/shubham5027/Customer-Segmentation-Machine-Learning-Webapp/assets/132193443/69b7046e-a1fe-4937-8459-8530cda3430a)
 
 
 Prerequisites
